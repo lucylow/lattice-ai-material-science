@@ -4,6 +4,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+![](https://github.com/lucylow/lattice-ai-material-science/blob/main/3.png?raw=true)
+
 ![](https://github.com/lucylow/lattice-ai-material-science/blob/main/1.png?raw=true)
 
 ![](https://github.com/lucylow/lattice-ai-material-science/blob/main/2.png?raw=true) 
