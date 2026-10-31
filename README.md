@@ -4,24 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-**Repository:** [`lucylow/lattice-ai-material-science`](https://github.com/lucylow/lattice-ai-material-science)  
-**Primary artifact currently published:** `lattice-mobile.zip`  
-**Documentation status:** Expanded project README and proposed technical architecture
-
 ---
-
-## Documentation and implementation status
-
-This README is intentionally explicit about what is known and what is a design proposal. The repository currently exposes a top-level `LICENSE`, a one-line `README.md`, and a 472 KB archive named `lattice-mobile.zip`. The archive's source files, dependency manifests, and runtime configuration were not available for inspection while this README was prepared.
-
-Consequently:
-
-- The repository name and mobile archive are **verified repository facts**.
-- The scientific workflows, data model, architecture, and API examples below are a **proposed reference design** for an AI-enabled materials-science application. They are not a claim that these components already exist in the archive.
-- Programming language, mobile framework, backend, database, model provider, authentication mechanism, supported datasets, and executable build/test commands are **not yet verified**. They are deliberately not guessed.
-- Before treating this document as an implementation specification, compare the proposal with the extracted source and replace the marked implementation notes with actual module names, commands, and contracts.
-
-This distinction matters in scientific software: a diagram of a recommended pipeline must not be confused with evidence that a particular model has been trained, validated, or deployed.
 
 ## Table of contents
 
